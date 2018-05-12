@@ -14,6 +14,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1336
     wikipedia: http://en.wikipedia.org/wiki/Georges_Ohnet
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13904#Un-antiguo-rencor
 gutenberg_issued: '2004-10-31'
 gutenberg_type: Text
 identifiers:
